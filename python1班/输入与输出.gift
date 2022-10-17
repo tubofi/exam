@@ -1,0 +1,31 @@
+::1-1-1:: 你认为下面哪个关键字代表输入？ {
+    =input
+    ~export
+    ~import
+    ~output
+}
+
+::1-1-2:: 哪个关键字的作用与scratch3中的 “询问...并等待” 功能类似？ {
+    ~print
+    ~export
+    =input
+    ~output
+}
+
+::1-1-3:: 下面哪个关键字代表输出？ {
+    ~output
+    =print
+    ~while
+    ~else
+}
+
+::1-1-4:: 下面哪一行没有语法错误？ {
+    ~input(请输入一个数字：)
+    ~input "请输入一个数字："
+    =input()
+    ~print(python)
+}
+
+
+
+
