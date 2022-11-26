@@ -1,0 +1,110 @@
+
+::9-1:: 以下字符串的表示方法中不正确的是 {
+    =''hello world''
+    ~'hello'
+    ~"world"
+    ~'''hello world'''
+}
+
+::9-2:: 以下符号中哪个代表字符串中的转义字符 {
+    =\
+    ~/
+    ~''
+    ~""
+}
+
+//print("\\")
+::9-3:: 以下程序的输出结果是 {
+    =\
+    ~\\
+    ~""
+    ~无
+}
+
+// s1 = 'hello' + ' ' + 'world'
+// s2 = "!" * 3
+// print(s1 + s2)
+::9-4:: 执行以下python程序，选择正确的输出结果 {
+    =hello world!!!
+    ~helloworld!!!
+    ~helloworld!
+    ~hello world!
+}
+
+// s1 = "th"
+// s2 = "ank"
+// s2 += s1
+// print(s2)
+::9-5:: 执行以下python程序，选择正确的输出结果 {
+    =ankth
+    ~thank
+    ~th ank
+    ~ank th
+}
+
+// s1 = 'hello, world'
+// print('wo' in s1)
+::9-6:: 执行以下python程序，选择正确的输出结果 {
+    =True
+    ~False
+    ~wo
+    ~'wo' in s1
+}
+
+// s1 = 'hello, world'
+// print('word' in s1)
+::9-7:: 执行以下python程序，选择正确的输出结果 {
+    =False
+    ~True
+    ~word
+    ~'word'
+}
+
+// s = 'hello, world'
+// print(len(s))  
+::9-8:: 执行以下python程序，选择正确的输出结果 {
+    =12
+    ~11
+    ~10
+    ~13
+}
+
+//s = 'abc123456'
+::9-9:: 观察以下字符串，s[4]是如下哪个字符 {
+    =2
+    ~1
+    ~3
+    ~c
+}
+
+// s = "8slkdjfklj9ikkkkk"
+// m = s[2:5]
+::9-10:: 计算字符串m的长度是几 {
+    =3
+    ~5
+    ~4
+    ~2
+}
+
+//打印\n
+
+//打印出字符串中的最后一个字符
+
+//打印字符串中索引值为10~19的字符，共20个
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

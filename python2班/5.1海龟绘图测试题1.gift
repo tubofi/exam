@@ -1,0 +1,123 @@
+
+::5-1:: 以下哪个关键字代表将模块导入到自己的程序中 {
+    =import
+    ~imput
+    ~input
+    ~as
+}
+
+//import turtle as ___
+//yy.forward(100)
+::5-2:: 分析以下程序，为空白处选择正确的内容 {
+    =yy
+    ~t
+    ~turtle
+    ~forward
+}
+
+//
+::5-3:: 选择与以下scratch积木功能相同的turtle函数 {
+    =turtle.left()
+    ~turtle.forward()
+    ~turtle.back()
+    ~turtle.right()
+}
+
+::5-4:: 选择与以下scratch积木功能相同的turtle函数 {
+    =turtle.forward()
+    ~turtle.left()
+    ~turtle.back()
+    ~turtle.right()
+}
+
+::5-5:: 选择与以下scratch积木功能相同的turtle函数 {
+    =turtle.back()
+    ~turtle.right()
+    ~turtle.left()
+    ~turtle.forward()
+}
+
+::5-6:: 选择与以下scratch积木功能相同的turtle函数 {
+    =turtle.right()
+    ~turtle.left()
+    ~turtle.back()
+    ~turtle.forward()
+}
+
+//import turtle
+//turtle.forward(100)
+//turtle.back(50)
+//turtle.forward(100)
+//turtle.back(50)
+::5-7:: 运行以下程序后，turtle距离初始位置前进了多少步？ {
+    =100
+    ~200
+    ~150
+    ~300
+}
+
+::5-8:: 根据释义选择正确的关键字 {
+    =%25%前进 -> forward
+    =%25%左转 -> left
+    =%25%右转 -> right
+    =%25%后退 -> back
+}
+
+//import turtle
+//turtle.forward(50)
+//turtle.left(90)
+//turtle.forward(50)
+//turtle.left(90)
+//turtle.forward(50)
+//turtle.left(90)
+//turtle.forward(50)
+//turtle.left(90)
+::5-9:: 运行以下程序，turtle将会画出一个什么样的图形 {
+    =正方形
+    ~长方形
+    ~三角形
+    ~圆形
+}
+
+//import turtle
+//turtle.forward(100)
+//turtle.left(90)
+//turtle.forward(50)
+//turtle.left(90)
+//turtle.forward(100)
+//turtle.left(90)
+//turtle.forward(50)
+//turtle.left(90)
+::5-10:: 运行以下程序，turtle将会画出一个什么样的图形 {
+    =长方形
+    ~正方形
+    ~三角形
+    ~圆形
+}
+
+//import turtle
+//turtle.left(90)
+//turtle.right(30)
+//turtle.left(60)
+//turtle.right(30)
+::5-11:: 运行以下程序后，turtle面向的角度是多少度？ {
+    =90
+    ~60
+    ~30
+    ~120
+}
+
+//import turtle
+//turtle.forward(100)
+//turtle.left(120)
+//turtle.forward(100)
+//turtle.left(120)
+//turtle.forward(100)
+//turtle.left(120)
+::5-12:: 运行以下程序，turtle将会画出一个什么样的图形 {
+    =三角形
+    ~正方形
+    ~长方形
+    ~圆形
+}
+

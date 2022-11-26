@@ -61,7 +61,7 @@
 }
 
 //a = int(input())
-//if a > 10:
+//if a > 9:
 //print(10)
 //else:
 //print(100)
